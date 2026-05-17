@@ -1,4 +1,3 @@
-# 🚢 Global Supply Chain Command Center
 # 🚢 ChainSyn: Supply Chain Command Center
 
 [![LIVE DASHBOARD](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bigchunggus51-chainsyn.streamlit.app/)
